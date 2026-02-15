@@ -17,6 +17,7 @@ split_data:
 
 
 raw_data_path: data/raw/train.csv
+train.csv: data/raw/train.csv
 
 MAX_FEATURES: 200000
 
